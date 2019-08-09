@@ -1,0 +1,26 @@
+{
+  "name": "@vbelolapotkov/prettier-config",
+  "version": "0.1.0",
+  "description": "Shareable prettier config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbelolapotkov/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": "Vasily Belolapotkov <belolapotkov.v@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vbelolapotkov/prettier-config/issues"
+  },
+  "homepage": "https://github.com/vbelolapotkov/prettier-config#readme",
+  "dependencies": {
+    "prettier": "^1.18.2"
+  }
+}
